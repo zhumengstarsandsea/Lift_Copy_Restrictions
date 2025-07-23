@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/zhumengstarsandsea/Lift_Copy_Restrictions/blob/main/logo.png" width="128" height="128" alt="Project Logo">
   <h1>解除复制限制 (Lift Copy Restrictions)</h1>
-  <p>一个旨在智能解除网页右键限制的油猴脚本。</p>
+  <p>一个旨在智能解除网页复制限制的油猴脚本。</p>
   
   <p>
      <a href="https://github.com/zhumengstarsandsea/Lift_Copy_Restrictions">
@@ -62,7 +62,7 @@
 -   **通用网站**: 当您在某个其他网站遇到复制限制时：
     1.  点击浏览器右上角的 <img src="https://www.tampermonkey.net/images/icon.png" height="16" alt="Tampermonkey Logo" style="vertical-align: -0.2em;"> **Tampermonkey** 图标。
     2.  在菜单中点击 **“✅ 加入解除名单”**。
-    3.  页面将自动刷新，顺利的话该网站的右键等限制便会被解除。
+    3.  页面将自动刷新，顺利的话该网站复制限制便会被解除。
     4.  若要让脚本在某个已加入的网站上停止工作，只需再次访问该网站，并在油猴菜单中点击 **“❌ 移出解除名单”** 即可。
 -   **查看日志**: 按 `F12` 打开浏览器开发者工具，切换到 `Console` (控制台) 标签页，即可查看脚本输出的工作日志。
 
