@@ -3,5 +3,5 @@
   "version": "1.1.0",
   "description": "智能解除复制限制。白名单网站将自动激活通用破解，特殊网站则自动采用专门的破解方案。",
   "author": "zhumengstarsandsea",
-  "license": "AGPL-3.0-only"
+  "license": "AGPL-3.0"
 }
