@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/zhumengstarsandsea/Lift_Copy_Restrictions/blob/main/logo.png" width="128" height="128" alt="Project Logo">
   <h1>解除复制限制 (Lift Copy Restrictions)</h1>
-  <p>一个旨在智能解除网页复制和右键限制的油猴脚本。</p>
+  <p>一个旨在智能解除网页右键限制的油猴脚本。</p>
   
   <p>
      <a href="https://github.com/zhumengstarsandsea/Lift_Copy_Restrictions">
